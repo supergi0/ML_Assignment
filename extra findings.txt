@@ -1,0 +1,59 @@
+-------------------------------------------- PERCEPTRON MODEL --------------------------------------------
+
+Linear Fit for normalized data with nan values dropped.
+
+Total Points: 563
+Epochs: 0 			Misclassified Points: 32 	Accuracy: 0.97336 	Recall: 0.95735 	Precision: 0.97115
+Epochs: 10000 		Misclassified Points: 12 	Accuracy: 0.98757 	Recall: 0.98104 	Precision: 0.98571
+Epochs: 20000 		Misclassified Points: 9 	Accuracy: 0.99112 	Recall: 0.98578 	Precision: 0.99048
+Epochs: 30000 		Misclassified Points: 9 	Accuracy: 0.99112 	Recall: 0.97630 	Precision: 1.00000
+Epochs: 40000 		Misclassified Points: 7 	Accuracy: 0.99290 	Recall: 0.98578 	Precision: 0.99522
+Epochs: 50000 		Misclassified Points: 9 	Accuracy: 0.98579 	Recall: 0.98104 	Precision: 0.98104
+Epochs: 60000 		Misclassified Points: 9 	Accuracy: 0.98224 	Recall: 0.97156 	Precision: 0.98086
+Epochs: 70000 		Misclassified Points: 11 	Accuracy: 0.99112 	Recall: 0.98104 	Precision: 0.99519
+Epochs: 80000 		Misclassified Points: 9 	Accuracy: 0.99112 	Recall: 0.98578 	Precision: 0.99048
+Epochs: 90000 		Misclassified Points: 9 	Accuracy: 0.99112 	Recall: 0.98104 	Precision: 0.99519
+Epochs: 100000 		Misclassified Points: 9 	Accuracy: 0.98934 	Recall: 0.98104 	Precision: 0.99043
+Epochs: 110000 		Misclassified Points: 9 	Accuracy: 0.98934 	Recall: 0.98104 	Precision: 0.99043
+Epochs: 120000 		Misclassified Points: 10 	Accuracy: 0.98934 	Recall: 0.98104 	Precision: 0.99043
+Epochs: 130000 		Misclassified Points: 7 	Accuracy: 0.99112 	Recall: 0.98104 	Precision: 0.99519
+Epochs: 140000 		Misclassified Points: 8 	Accuracy: 0.98579 	Recall: 0.98578 	Precision: 0.97653
+Epochs: 150000 		Misclassified Points: 8 	Accuracy: 0.99112 	Recall: 0.98104 	Precision: 0.99519
+Epochs: 160000 		Misclassified Points: 8 	Accuracy: 0.98757 	Recall: 0.98104 	Precision: 0.98571
+Epochs: 170000 		Misclassified Points: 5 	Accuracy: 0.99112 	Recall: 0.98104 	Precision: 0.99519
+Epochs: 180000 		Misclassified Points: 8 	Accuracy: 0.98757 	Recall: 0.98104 	Precision: 0.98571
+Epochs: 190000 		Misclassified Points: 8 	Accuracy: 0.98934 	Recall: 0.98578 	Precision: 0.98578
+Epochs: 200000 		Misclassified Points: 8 	Accuracy: 0.99290 	Recall: 0.98104 	Precision: 1.00000
+Successfully classified in 200293 epochs!
+
+
+
+Linear Fit for normalized data with nan values replaced with mean.
+
+Total Points: 569
+Epochs: 0 			Misclassified Points: 32 	Accuracy: 0.97364 	Recall: 0.95755 	Precision: 0.97129
+Epochs: 10000 		Misclassified Points: 6 	Accuracy: 0.99121 	Recall: 0.98585 	Precision: 0.99052
+Epochs: 20000 		Misclassified Points: 6 	Accuracy: 0.99121 	Recall: 0.98585 	Precision: 0.99052
+Epochs: 30000 		Misclassified Points: 5 	Accuracy: 0.99121 	Recall: 0.98585 	Precision: 0.99052
+Epochs: 40000 		Misclassified Points: 7 	Accuracy: 0.98946 	Recall: 0.98113 	Precision: 0.99048
+Epochs: 50000 		Misclassified Points: 7 	Accuracy: 0.98594 	Recall: 0.98113 	Precision: 0.98113
+Epochs: 60000 		Misclassified Points: 8 	Accuracy: 0.98946 	Recall: 0.98113 	Precision: 0.99048
+Epochs: 70000 		Misclassified Points: 8 	Accuracy: 0.99121 	Recall: 0.98113 	Precision: 0.99522
+Epochs: 80000 		Misclassified Points: 4 	Accuracy: 0.98594 	Recall: 0.98113 	Precision: 0.98113
+Epochs: 90000 		Misclassified Points: 8 	Accuracy: 0.99121 	Recall: 0.98585 	Precision: 0.99052
+Epochs: 100000 		Misclassified Points: 8 	Accuracy: 0.98946 	Recall: 0.98113 	Precision: 0.99048
+Epochs: 110000 		Misclassified Points: 8 	Accuracy: 0.98770 	Recall: 0.98113 	Precision: 0.98578
+Epochs: 120000 		Misclassified Points: 6 	Accuracy: 0.98946 	Recall: 0.98585 	Precision: 0.98585
+Epochs: 130000 		Misclassified Points: 11 	Accuracy: 0.98770 	Recall: 0.98113 	Precision: 0.98578
+Epochs: 140000 		Misclassified Points: 7 	Accuracy: 0.99121 	Recall: 0.98113 	Precision: 0.99522
+Epochs: 150000 		Misclassified Points: 6 	Accuracy: 0.98946 	Recall: 0.98113 	Precision: 0.99048
+Epochs: 160000 		Misclassified Points: 5 	Accuracy: 0.99121 	Recall: 0.98113 	Precision: 0.99522
+Epochs: 170000 		Misclassified Points: 11 	Accuracy: 0.98946 	Recall: 0.98113 	Precision: 0.99048
+Epochs: 180000 		Misclassified Points: 8 	Accuracy: 0.99121 	Recall: 0.98585 	Precision: 0.99052
+Epochs: 190000 		Misclassified Points: 7 	Accuracy: 0.99297 	Recall: 0.98585 	Precision: 0.99524
+Epochs: 200000 		Misclassified Points: 7 	Accuracy: 0.99121 	Recall: 0.98113 	Precision: 0.99522
+Epochs: 210000 		Misclassified Points: 6 	Accuracy: 0.99297 	Recall: 0.99057 	Precision: 0.99057
+Epochs: 220000 		Misclassified Points: 8 	Accuracy: 0.98770 	Recall: 0.98113 	Precision: 0.98578
+Epochs: 230000 		Misclassified Points: 12 	Accuracy: 0.99473 	Recall: 0.98585 	Precision: 1.00000
+Epochs: 240000 		Misclassified Points: 8 	Accuracy: 0.99121 	Recall: 0.98113 	Precision: 0.99522
+Successfully classified in 245880 epochs!
